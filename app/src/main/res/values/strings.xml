@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bookshelf</string>
+    <string name="book_image">Book image</string>
+    <string name="loading_failed">Ошибка загрузки</string>
+    <string name="retry">Попробовать снова</string>
+    <string name="loading">Загрузка</string>
+
+</resources>
